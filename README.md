@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-[desktop screenshot](images/screenshot/desktop.png)
-[mobile screenshot](images/screenshot/mobile.png)
+- [desktop screenshot](images/screenshot/desktop.png)
+- [mobile screenshot](images/screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Abrham007/3-column-preview-card-component-main.git)
+- Live Site URL: [live site URL](https://abrham007.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -42,4 +42,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Abrham007](https://www.frontendmentor.io/profile/Abrham007)
+
 # 3-column-preview-card-component-main
